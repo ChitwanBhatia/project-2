@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-My name is Chitwan Bhatia
+Created by Chitwan Bhatia.
